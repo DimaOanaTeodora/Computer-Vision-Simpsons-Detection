@@ -1,8 +1,9 @@
 # :eye_speech_bubble: Computer Vision Simpson Family Project 
-:snake:	```python 3.8.10 ```
-
+Computer vision project (third year uni course)
 
 Check the documentation [here](https://github.com/DimaOanaTeodora/Simpsons-Character-Detection/blob/main/documentatie%20Tema%202%20CAVA.pdf)
+
+:snake:	```python 3.8.10 ```
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61749814/167293011-8ea321a7-8a8f-4f2c-9860-b57c8d1f5422.png" width="330" height="300" />
