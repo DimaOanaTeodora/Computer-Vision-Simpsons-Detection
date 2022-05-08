@@ -1,4 +1,4 @@
-# :eye_speech_bubble: Computer Vision Simpson Family Project 
+# :eye_speech_bubble: Simpsons character facial recognition
 Computer vision project (third year uni course)
 
 Check the documentation [here](https://github.com/DimaOanaTeodora/Simpsons-Character-Detection/blob/main/documentatie%20Tema%202%20CAVA.pdf)
